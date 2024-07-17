@@ -1,2 +1,3 @@
 # playWithAPI
-Learn how to manipulate Json, use requests module
+I used Python for this.
+I learn how to manipulate Json, use requests module.
